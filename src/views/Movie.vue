@@ -1,5 +1,5 @@
 <template>
-  <main class="container mx-auto px-6 md:px-24 flex gap-2">
+  <main class="container mx-auto px-6 md:px-24 flex flex-wrap gap-2">
     <template v-if="movie">
       <div class="w-full sm:w-1/3">
         <img :src="imgUrl" alt="" class="h-64 w-full max-w-xs rounded-md" />

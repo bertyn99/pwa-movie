@@ -18,12 +18,12 @@ export default defineConfig({
         icons: [
           {
             src: "movie.svg",
-            sizes: "16x16",
+            sizes: "144x144",
             type: "image/svg",
           },
           {
             src: "movie.svg",
-            sizes: "16x16",
+            sizes: "144x144",
             type: "image/svg",
           },
         ],
