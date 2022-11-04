@@ -1,7 +1,7 @@
 <template>
   <main class="container px-6 mx-auto flex flex-col justify-center py-8">
     <h1
-      class="text-6xl font-bold font-sans text-orange-900 inline-flex items-center justify-center mb-8"
+      class="text-5xl md:text-6xl font-bold font-sans text-orange-900 inline-flex items-center justify-center mb-8"
     >
       <Icon icon="icon-park-twotone:movie" /><span>Movie Finder</span>
     </h1>
